@@ -1,8 +1,6 @@
 # Describe Image
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/your-extension-id)](https://chrome.google.com/webstore/detail/your-extension-id)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT-4-412991)](https://openai.com)
 
 A Chrome extension that uses OpenAI's GPT-4 Vision model to provide detailed descriptions of images on any webpage. Simply right-click on an image and get an AI-powered description instantly.
 
@@ -104,4 +102,4 @@ If you encounter any issues or have questions, please:
 
 ---
 
-Made with ❤️ by [Your Name/Organization]
+Made with ❤️ by Richa Bharti.
